@@ -1,0 +1,60 @@
+.content-title {
+    margin-right: 30px;
+}
+
+.content-header input {
+  outline: none;
+  border: 1px solid #411e8c;
+  height: 30px;
+  width: 280px;
+  border-radius: 4px;
+  padding: 0 8px;
+}
+
+.content-header span {
+  background-color: #ebf0fd;
+  color: #411e8c;
+  height: 30px;
+  padding: 3px 16px;
+  border-radius: 3px;
+  transition: all 1s ease;
+  cursor: pointer;
+}
+
+.content-header span:hover {
+    background-color: #411e8c;
+    color: #ebf0fd;
+}
+
+.infor-avt-user {
+  height: 100px !important;
+}
+
+.infor-avt-user img {
+    border-radius: 3px;
+}
+
+.infor-post {
+  text-align: center;
+}
+
+.infor-post-user-top {
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 22px;
+  margin-bottom: 10px;
+}
+
+.infor-post-user-bottom {
+  color: #7a7a7a;
+}
+
+.infor-select-status-user {
+  background-color: #ebf0fd;
+  padding: 8px;
+}
+
+.infor-submit-status-user {
+  background-color: #411e8c;
+  padding: 8px;
+}
